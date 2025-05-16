@@ -1,0 +1,122 @@
+[
+  {
+    "ResourceKey": "HomePage",
+    "ResourceValue": "Trang chủ"
+  },
+  {
+    "ResourceKey": "Contact",
+    "ResourceValue": "Liên hệ"
+  },
+  {
+    "ResourceKey": "Register",
+    "ResourceValue": "Đăng ký"
+  },
+  {
+    "ResourceKey": "Login",
+    "ResourceValue": "Đăng nhập"
+  },
+  {
+    "ResourceKey": "AboutUs",
+    "ResourceValue": "Giới thiệu"
+  },
+  {
+    "ResourceKey": "Event",
+    "ResourceValue": "Sự kiện"
+  },
+  {
+    "ResourceKey": "Article",
+    "ResourceValue": "Bài viết"
+  },
+  {
+    "ResourceKey": "FingerprintBiometrics",
+    "ResourceValue": "Sinh trắc vân tay"
+  },
+  {
+    "ResourceKey": "Numerology",
+    "ResourceValue": "Thần số học"
+  },
+  {
+    "ResourceKey": "CommunicationSkills",
+    "ResourceValue": "Kỹ năng giao tiếp"
+  },
+  {
+    "ResourceKey": "Course",
+    "ResourceValue": "Khóa học"
+  },
+  {
+    "ResourceKey": "QuickLinks",
+    "ResourceValue": "Liên kết nhanh"
+  },
+  {
+    "ResourceKey": "PrivacyPolicy",
+    "ResourceValue": "Chính sách bảo mật"
+  },
+  {
+    "ResourceKey": "TermsOfUse",
+    "ResourceValue": "Điều khoản sử dụng"
+  },
+  {
+    "ResourceKey": "EnterYourEmail",
+    "ResourceValue": "Nhập email của bạn"
+  },
+  {
+    "ResourceKey": "NewsletterContent",
+    "ResourceValue": "Đăng ký email để không bỏ lỡ các cập nhật, chương trình khuyến mãi và khóa học mới nhất."
+  },
+  {
+    "ResourceKey": "Address",
+    "ResourceValue": "Địa chỉ"
+  },
+  {
+    "ResourceKey": "Mobile",
+    "ResourceValue": "Di động"
+  },
+  {
+    "ResourceKey": "WithUs",
+    "ResourceValue": "với chúng tôi"
+  },
+  {
+    "ResourceKey": "Fullname",
+    "ResourceValue": "Họ tên"
+  },
+  {
+    "ResourceKey": "Telephone",
+    "ResourceValue": "Điện thoại"
+  },
+  {
+    "ResourceKey": "Subject",
+    "ResourceValue": "Tiêu đề"
+  },
+  {
+    "ResourceKey": "Message",
+    "ResourceValue": "Tin nhắn"
+  },
+  {
+    "ResourceKey": "SendMessage",
+    "ResourceValue": "Gửi tin nhắn"
+  },
+  {
+    "ResourceKey": "ContactInfo",
+    "ResourceValue": "Nếu bạn có bất kỳ câu hỏi, yêu cầu tư vấn, hoặc cần hỗ trợ, hãy để lại thông tin của bạn tại đây. Đội ngũ của chúng tôi sẽ phản hồi trong thời gian sớm nhất. Chúng tôi luôn sẵn sàng lắng nghe bạn!"
+  },
+  {
+    "ResourceKey": "AddressDetail",
+    "ResourceValue": "224 Vườn Lài, P.An Phú Đông, Quận 12, TP.HCM"
+  },
+  {
+    "ResourceKey": "Project",
+    "ResourceValue": "Dự án"
+  },
+  {
+    "ResourceKey": "Services",
+    "ResourceValue": "Dịch vụ"
+  },
+  {
+    "ResourceKey": "StudyAbroadConsulting",
+    "ResourceValue": "Tư vấn du học"
+  },
+  {
+    "ResourceKey": "Technology",
+    "ResourceValue": "Công nghệ"
+  }
+]

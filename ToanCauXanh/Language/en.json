@@ -1,0 +1,122 @@
+[
+  {
+    "ResourceKey": "HomePage",
+    "ResourceValue": "Home"
+  },
+  {
+    "ResourceKey": "Contact",
+    "ResourceValue": "Contact"
+  },
+  {
+    "ResourceKey": "Register",
+    "ResourceValue": "Register"
+  },
+  {
+    "ResourceKey": "Login",
+    "ResourceValue": "Login"
+  },
+  {
+    "ResourceKey": "AboutUs",
+    "ResourceValue": "About us"
+  },
+  {
+    "ResourceKey": "Event",
+    "ResourceValue": "Event"
+  },
+  {
+    "ResourceKey": "Article",
+    "ResourceValue": "Article"
+  },
+  {
+    "ResourceKey": "FingerprintBiometrics",
+    "ResourceValue": "Fingerprint biometrics"
+  },
+  {
+    "ResourceKey": "Numerology",
+    "ResourceValue": "Numerology"
+  },
+  {
+    "ResourceKey": "CommunicationSkills",
+    "ResourceValue": "Communication skills"
+  },
+  {
+    "ResourceKey": "Course",
+    "ResourceValue": "Course"
+  },
+  {
+    "ResourceKey": "QuickLinks",
+    "ResourceValue": "Quick links"
+  },
+  {
+    "ResourceKey": "PrivacyPolicy",
+    "ResourceValue": "Privacy policy"
+  },
+  {
+    "ResourceKey": "TermsOfUse",
+    "ResourceValue": "Terms of use"
+  },
+  {
+    "ResourceKey": "EnterYourEmail",
+    "ResourceValue": "Enter your email"
+  },
+  {
+    "ResourceKey": "NewsletterContent",
+    "ResourceValue": "Sign up for emails to never miss out on the latest updates, promotions and courses."
+  },
+  {
+    "ResourceKey": "Address",
+    "ResourceValue": "Address"
+  },
+  {
+    "ResourceKey": "Mobile",
+    "ResourceValue": "Mobile"
+  },
+  {
+    "ResourceKey": "WithUs",
+    "ResourceValue": "with us"
+  },
+  {
+    "ResourceKey": "Fullname",
+    "ResourceValue": "Fullname"
+  },
+  {
+    "ResourceKey": "Telephone",
+    "ResourceValue": "Telephone"
+  },
+  {
+    "ResourceKey": "Subject",
+    "ResourceValue": "Subject"
+  },
+  {
+    "ResourceKey": "Message",
+    "ResourceValue": "Message"
+  },
+  {
+    "ResourceKey": "SendMessage",
+    "ResourceValue": "Send Message"
+  },
+  {
+    "ResourceKey": "ContactInfo",
+    "ResourceValue": "If you have any questions, need advice, or need support, please leave your information here. Our team will respond as soon as possible. We are always ready to listen to you!"
+  },
+  {
+    "ResourceKey": "AddressDetail",
+    "ResourceValue": "224 Vuon Lai, An Phu Dong Ward, District 12, HCM City"
+  },
+  {
+    "ResourceKey": "Project",
+    "ResourceValue": "Project"
+  },
+  {
+    "ResourceKey": "Services",
+    "ResourceValue": "Services"
+  },
+  {
+    "ResourceKey": "StudyAbroadConsulting",
+    "ResourceValue": "Study abroad consulting"
+  },
+  {
+    "ResourceKey": "Technology",
+    "ResourceValue": "Technology"
+  }
+]
